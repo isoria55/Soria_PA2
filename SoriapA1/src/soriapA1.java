@@ -52,7 +52,7 @@ public class soriapA1 {
 				d += 10;
 			}
 			//print the result
-			System.out.println("Your encrypted data is: " + (c - 7) + " " + (d - 7) + " " + (a - 7) + " " + (b - 7));
+			System.out.println("Your decrypted data is: " + (c - 7) + " " + (d - 7) + " " + (a - 7) + " " + (b - 7));
 		}
 		else {
 			System.out.println("Please run again and type " + "\"encrypt\"" + " or " + "\"decrypt\"" + ". ");
